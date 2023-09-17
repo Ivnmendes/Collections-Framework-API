@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/colletions_java_api_list/src/list" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/colletions_java_api_list/src/list/operacoesBasicas" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/colletions_java_api_list/src/list/operacoesBasicas/application" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/colletions_java_api_list/src/list/operacoesBasicas/application2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/colletions_java_api_list/src/list/operacoesBasicas/application3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/colletions_java_api_list/src/list/operacoesBasicas/application4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/colletions_java_api_list/src/list/ordenacao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/colletions_java_api_list/src/list/pesquisa" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
