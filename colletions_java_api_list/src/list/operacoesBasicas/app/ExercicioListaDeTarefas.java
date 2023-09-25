@@ -1,4 +1,4 @@
-package application;
+package app;
 
 public class ExercicioListaDeTarefas {
 	public static void main(String[] args) {

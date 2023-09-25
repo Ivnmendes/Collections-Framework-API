@@ -1,3 +1,5 @@
+package ordenacao;
+
 import java.util.Comparator;
 
 public class Pessoa implements Comparable<Pessoa>{
@@ -42,7 +44,7 @@ public class Pessoa implements Comparable<Pessoa>{
 
     @Override
     public String toString() {
-        return "Pessoa{" +
+        return "ordenacao.Pessoa{" +
                 "nome='" + nome + '\'' +
                 ", idade=" + idade +
                 ", altura=" + altura +

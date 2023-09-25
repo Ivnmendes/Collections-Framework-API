@@ -1,4 +1,4 @@
-package application4;
+package app4;
 
 public class program {
 	public static void main(String[] args) {

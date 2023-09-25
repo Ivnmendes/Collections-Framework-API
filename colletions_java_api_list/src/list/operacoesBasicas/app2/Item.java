@@ -1,4 +1,4 @@
-package application2;
+package app2;
 
 public class Item {
 	private String name;
